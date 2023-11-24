@@ -56,6 +56,9 @@ runtests( ) {
 		6)
 			echo "AUCTION CODE 6: The auction is not setting its state correctly."
 			;;
+		7)
+			echo "AUCTION CODE 7: In money and life, values are not always int."
+			;;
 		8)
 			echo "AUCTION CODE 8: Two errors in Auction. Do your tests detect BOTH defects?"
 			;;
